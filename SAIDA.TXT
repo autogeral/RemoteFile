@@ -1,0 +1,70 @@
+M------------------------------------------------------------------------------------------------
+                                    N DO ORCAMENTO:  11010008.1       EMISSAO:  03/01/2011 08:39
+CLIENTE : 4682.1 - WANDERLEY NUNES DOS SANTOS *
+ENDERECO : RUA MAESTRO ISAIAS S. BELCUSINI, 254
+BAIRRO : JARDIM PADRE BENTO            CIDADE : ITU                           
+UF : SP   CEP : 13300-000       FONE : 4022-4840            COMPRADOR : O MESMO
+------------------------------------------------------------------------------------------------
+PRODUTO CODIGO DO FABRICANTE DESCRICAO DO PRODUTO             UN QUANTIDE R$ UNIDADE PRECO TOTAL
+------- -------------------- -------------------------------- -- -------- ---------- -----------
+15062 A 90180529             RETENTOR COMANDO MZA/KDT/OMG/VEC PC     1,00      10,00      10,00 
+13986 A 90354378             RETENTOR VIRABR. TRAS. MZA/KDT 8 PC     1,00      31,58      31,58 
+15060   02317BRAGF           RETENTOR VIRAB. DIANT MONZA/KADE PC     1,00      34,33      34,33 
+ 8760   80274                JUNTA MOTOR MONZA/OMEGA/S10/VECT JG     1,00     131,21     131,21 
+18335 C CT960                CORREIA DENTADA GM S10/OMEGA 2.2 PC     1,00      51,41      51,41 
+ 6896 C F234394              ROLAM TENSOR CORREIA DENTADA VEC PC     1,00     107,74     107,74 
+19161   FE177026CP           POLIA GUIA CORREIA ALTERN. CORSA PC     1,00      38,36      38,36 
+  586 B BD9378               BOMBA D'AGUA ASTRA/VECTRA/OMEGA/ PC     1,00      81,75      81,75 
+27964   VC420                TUBO ENTR. D'AGUA GM S10/BLAZER  PC     1,00      65,42      65,42 
+  303 A 041LR5XB             VELA RESISTIVA FIAT/FORD/GM/VW A PC     4,00       9,82      39,28 
+17066   VT211.82             VALVULA TERMOST. MZA/KDT 87/ GAS PC     1,00      45,05      45,05 
+
+
+
+OBSERVACAO: entregar
+------------------------------------------------------------------------------------------------
+                                    VENDEDOR : ANDERSON RODRIGDEVOLUCAO EM ATE 48 HORAS
+                                    MODO PGTO: A PRAZO 30 DIAS FORA SEMANA
+______________________________						    TOTAL:        636,13
+    ASSINATURA DO CLIENTE			PAG: 1/1
+------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
